@@ -4,13 +4,6 @@ This is a **frontend clone of the YouTube homepage**, built using only **HTML** 
 
 ---
 
-## 🌐 Live Demo
-
-[Click here to view the live project](#)  
-_(Replace `#` with your deployed URL if hosted)_
-
----
-
 ## 🚀 Features
 
 - ✅ Header with YouTube logo, search bar, and user icons
