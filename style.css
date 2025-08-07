@@ -330,7 +330,7 @@ input[type="search"]::-webkit-search-decoration {
   }
 
   .content {
-    margin-top: 175vh;
+    margin-top: 1520px;
     margin-bottom: 60px; /* make room for bottom nav */
     display: flex;
     flex-direction: column;
